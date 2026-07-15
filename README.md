@@ -1,4 +1,6 @@
 # odin-recipes
-HTML project with TOP
+HTML project with The Odin Project
 
-<!-- write a brief introduction describing what the current project is and what skills you will have demonstrated once you have completed it. (You can also do this as a self-reflection at the end of the project, which is a good way to review what you have learned.) -->
+A simple recipe website built using HTML on VS Code.
+
+By doing this project, the command line became more intuitive, and I got a hang of making "atomic commits".
